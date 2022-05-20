@@ -6,9 +6,13 @@
 
 ## 참여자
 
-| ![](https://github.com/gomster96.png) | ![](https://github.com/Juyoungit.png) | ![](https://github.com/crystalYoo99.png) | ![](https://github.com/doplinBlue.png) | ![](https://github.com/Yeonhee77.png) | ![](https://github.com/kang-heeyoung.png) | 
+| ![](https://github.com/gomster96.png) | ![](https://github.com/Juyoungit.png) | ![](https://github.com/crystalYoo99.png) | ![](https://github.comdoplinBlue.png) | ![](https://github.com/Yeonhee77.png) | ![](https://github.com/kang-heeyoung.png) | 
 | :--------------------------------------: | :-----------------------------------: | :------------------------------------: | :------------------------------------: | :------------------------------------: | :------------------------------------: |
 |             **안병웅**              |            **하주영**            |            **유수정**             |             **유소은**             |             **이연희**             |             **강희영**             |
+| :--------------------------------------: | :-----------------------------------: | :------------------------------------: | :------------------------------------: | :------------------------------------: | :------------------------------------: |
+|             **BackEnd**              |            **BackEnd**            |            **BackEnd**             |             **BackEnd**             |             **FrontEnd**             |             **FrontEnd**             |
+
+
 
 ## 기술스택
 
@@ -22,7 +26,7 @@
 
 ## 기획서
 
-[Figma Link](https://www.figma.com/file/PWOrxikyK7YTAdcYR2YNtS/kimleean?node-id=0%3A1)
+[Figma Link]()
 
 ## 백로그
 
