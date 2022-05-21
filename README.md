@@ -6,7 +6,7 @@
 
 ## 참여자
 
-| ![](https://github.com/gomster96.png) | ![](https://github.com/Juyoungit.png) | ![](https://github.com/crystalYoo99.png) | ![](https://github.comd/oplinBlue.png) | ![](https://github.com/Yeonhee77.png) | ![](https://github.com/kang-heeyoung.png) | 
+| ![](https://github.com/gomster96.png) | ![](https://github.com/Juyoungit.png) | ![](https://github.com/crystalYoo99.png) | ![](https://github.comd/doplinBlue.png) | ![](https://github.com/Yeonhee77.png) | ![](https://github.com/kang-heeyoung.png) | 
 | :--------------------------------------: | :-----------------------------------: | :------------------------------------: | :------------------------------------: | :------------------------------------: | :------------------------------------: |
 |             **안병웅**              |            **하주영**            |            **유수정**             |             **유소은**             |             **김연희**             |             **강희영**             |
 |             **BackEnd**              |            **BackEnd**            |            **BackEnd**             |             **BackEnd**             |             **FrontEnd**             |             **FrontEnd**             |
