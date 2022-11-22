@@ -25,7 +25,13 @@ iTaxi는 서로 같은 시간대, 목적지로 이동하는 한동대학교 학�
 | Code Management | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=black"> |
 | Management      | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">                                 |
 | DB              | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black"> |
-
+  
+## 🖌️ Design
+|             **로그인 화면**              |            **택시 모집 방 생성**            |            **택시 조회/모집**             |             **택시 모집 채팅방**             |             **택시 이용 목록**             |
+| :-----------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: |
+| ![image](https://user-images.githubusercontent.com/68419318/203197331-4f30d17c-e703-4fc7-95c0-46ce8c01efd6.png) | ![image](https://user-images.githubusercontent.com/68419318/203197400-73990523-f2cd-419a-abad-e29b59a4db52.png) | ![image](https://user-images.githubusercontent.com/68419318/203197448-dec76ff0-0c84-4ede-84e8-37673c67a8f2.png) | ![image](https://user-images.githubusercontent.com/68419318/203197476-fb3c5052-c451-46f1-84f3-1f2325461206.png) | ![image](https://user-images.githubusercontent.com/68419318/203197505-df07bdb6-145d-47a2-9a78-0243d52dbafa.png) |.  
+  
+  
 ## 💻 Code
 - Flutter: https://github.com/I-Taxi/itaxi  
 - Spring Boot: https://github.com/I-Taxi/server  
@@ -34,9 +40,4 @@ iTaxi는 서로 같은 시간대, 목적지로 이동하는 한동대학교 학�
 ## 🏪 Store Link
 - Play Store: https://play.google.com/store/apps/details?id=com.cra.itaxi  
 - App Store: https://apps.apple.com/kr/app/itaxi/id1641494245  
-  
-## 🖌️ Design
-|             **로그인 화면**              |            **택시 모집 방 생성**            |            **택시 조회/모집**             |             **택시 모집 채팅방**             |             **택시 이용 목록**             |
-| :-----------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: |
-| ![image](https://user-images.githubusercontent.com/68419318/203197331-4f30d17c-e703-4fc7-95c0-46ce8c01efd6.png) | ![image](https://user-images.githubusercontent.com/68419318/203197400-73990523-f2cd-419a-abad-e29b59a4db52.png) | ![image](https://user-images.githubusercontent.com/68419318/203197448-dec76ff0-0c84-4ede-84e8-37673c67a8f2.png) | ![image](https://user-images.githubusercontent.com/68419318/203197476-fb3c5052-c451-46f1-84f3-1f2325461206.png) | ![image](https://user-images.githubusercontent.com/68419318/203197505-df07bdb6-145d-47a2-9a78-0243d52dbafa.png) |.  
   
